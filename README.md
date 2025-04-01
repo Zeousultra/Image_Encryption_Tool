@@ -13,8 +13,8 @@ This project implements a simple image encryption and decryption tool using XOR-
 Ensure Python 3 is installed on your system. Then clone the repository:
 
 ```bash
-git clone https://github.com/Zeousultra/PRODIGY_CS_02.git
-cd PRODIGY_CS_02
+git clone https://github.com/Zeousultra/Image_Encryption_Tool.git
+cd Image_Encryption_Tool
 ```
 
 Install the required libraries:
